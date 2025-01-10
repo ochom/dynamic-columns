@@ -2,9 +2,12 @@
 
 ## table structure
 
-1. users
+1. users table
+
    ![alt text](image-1.png)
+
 2. custom_columns
+
    ![alt text](image-2.png)
 
 ## running the app
