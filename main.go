@@ -22,10 +22,10 @@ func init() {
 		panic(err)
 	}
 
-	// create test data
-	if err := pkg.Seed(); err != nil {
-		panic(err)
-	}
+	// // create test data
+	// if err := pkg.Seed(); err != nil {
+	// 	panic(err)
+	// }
 }
 
 func main() {
